@@ -1,10 +1,10 @@
-# Anthony Paul - Web Designer
+# Umar Ahmed - Web Designer
 
 ![Profile Picture](profile_picture.jpg)
 
 ## Introduction
 
-Hi there! I'm Anthony Paul, a passionate web designer with a keen eye for aesthetics and a knack for creating visually stunning and user-friendly websites. With several years of experience in the industry, I have developed a strong understanding of modern web design principles and best practices.
+Hi there! I'm Umar Ahmed, a passionate web designer with a keen eye for aesthetics and a knack for creating visually stunning and user-friendly websites. With several years of experience in the industry, I have developed a strong understanding of modern web design principles and best practices.
 
 In this portfolio, I showcase some of my notable projects to demonstrate my skills, creativity, and attention to detail. Whether you're looking to revamp your existing website or create a brand new one from scratch, I'm here to help you bring your vision to life.
 
@@ -26,8 +26,8 @@ Here are some of the key skills that I bring to the table:
 
 Feel free to reach out to me for any inquiries, collaborations, or project opportunities:
 
-- Email: anthonypaulakpan@udobatech.com 
-- Phone: +234 8063465456
-- Portfolio Website: (https://billsanthony.github.io/portfolio/)
+- Email: umarahmadu@gmail.com 
+- Phone: +234 7066958052
+- Portfolio Website: (https://github.com/brainech/braintech.github.io/portfolio/)
 
 I look forward to working with you and creating exceptional web experiences!
